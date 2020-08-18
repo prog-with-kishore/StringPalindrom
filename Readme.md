@@ -19,12 +19,12 @@ Used C# Linq features to operate on a collection of strings.
 3. Does this code has modules?
 code is divided into methods(some are reused) and made them private methods.
 
-4.What does this code do?
+4. What does this code do?
 The code reads a paragraph.
 Searches for palindrome words and sentences in it and display them
 Expects an user input to search a character in the paragraph previously entered.
 
-5.How to see the output?
+5. How to see the output?
 Open the file : \StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.exe
 
 Or open the code folder in VS COde and use 'dotnet run' cli interface.
