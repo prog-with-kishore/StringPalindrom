@@ -24,7 +24,11 @@ The code reads a paragraph.
 Searches for palindrome words and sentences in it and display them
 Expects an user input to search a character in the paragraph previously entered.
 
-5. How to see the output?
+5. Limitation? 
+This is a basic program so did not handle special characters in paragraph tex(like apostrophe ').
+6. How to see the output?
 Open the file : \StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.exe
 
 Or open the code folder in VS COde and use 'dotnet run' cli interface.
+
+Checout the output.png for a sample output.
