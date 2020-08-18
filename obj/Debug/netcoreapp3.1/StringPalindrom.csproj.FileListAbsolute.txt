@@ -1,0 +1,13 @@
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.exe
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.deps.json
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.runtimeconfig.json
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.runtimeconfig.dev.json
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.dll
+C:\Kishore\Excercises\VS_Code\StringPalindrom\bin\Debug\netcoreapp3.1\StringPalindrom.pdb
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.csprojAssemblyReference.cache
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.AssemblyInfoInputs.cache
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.AssemblyInfo.cs
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.csproj.CoreCompileInputs.cache
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.dll
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.pdb
+C:\Kishore\Excercises\VS_Code\StringPalindrom\obj\Debug\netcoreapp3.1\StringPalindrom.genruntimeconfig.cache
